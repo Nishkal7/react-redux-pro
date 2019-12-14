@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-redux-pro/static/css/main.6cfecf80.chunk.css",
+    "main.js": "/react-redux-pro/static/js/main.8cb0a800.chunk.js",
+    "main.js.map": "/react-redux-pro/static/js/main.8cb0a800.chunk.js.map",
+    "runtime-main.js": "/react-redux-pro/static/js/runtime-main.ddd8bf35.js",
+    "runtime-main.js.map": "/react-redux-pro/static/js/runtime-main.ddd8bf35.js.map",
+    "static/js/2.55483585.chunk.js": "/react-redux-pro/static/js/2.55483585.chunk.js",
+    "static/js/2.55483585.chunk.js.map": "/react-redux-pro/static/js/2.55483585.chunk.js.map",
+    "index.html": "/react-redux-pro/index.html",
+    "precache-manifest.e4af5eae5311fe6bcbdb312f6fcbfbe7.js": "/react-redux-pro/precache-manifest.e4af5eae5311fe6bcbdb312f6fcbfbe7.js",
+    "service-worker.js": "/react-redux-pro/service-worker.js",
+    "static/css/main.6cfecf80.chunk.css.map": "/react-redux-pro/static/css/main.6cfecf80.chunk.css.map",
+    "static/media/burger-logo.png": "/react-redux-pro/static/media/burger-logo.b8503d26.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddd8bf35.js",
+    "static/js/2.55483585.chunk.js",
+    "static/css/main.6cfecf80.chunk.css",
+    "static/js/main.8cb0a800.chunk.js"
+  ]
+}
