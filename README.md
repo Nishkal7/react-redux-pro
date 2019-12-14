@@ -1,2 +1,2 @@
 Redux-React
-icomplete version
+incomplete version
