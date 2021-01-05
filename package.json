@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://nishkal7.github.io/react-redux/",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "gh-pages": "^2.1.1",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
